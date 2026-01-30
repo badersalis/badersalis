@@ -44,10 +44,8 @@ Generative AI / LLM experiments
 
 ---
 
-## GitHub Stats
+## GitHub Activity
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=badersalis&theme=tokyonight" alt="Bader's GitHub Streak" />
-  <br />
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=badersalis&theme=react-dark&hide_border=true" alt="Bader's GitHub Activity Graph" />
 </div>
 
