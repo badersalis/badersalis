@@ -42,12 +42,6 @@ Hi! I'm Bader, I build simple, scalable, and testable APIs for companies, labs, 
 </div>
 Generative AI / LLM experiments
 
----
-
-## GitHub Activity
-<div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=badersalis&theme=react-dark&hide_border=true" alt="Bader's GitHub Activity Graph" />
-</div>
 
 ---
 
