@@ -1,4 +1,6 @@
-Hi! I'm Bader, I built simple, scalable, and testable APIs for companies, labs, and organizations.
+Hi! I'm Bader, I build simple, scalable, and testable APIs for companies, labs, and organizations.
+
+---
 
 ## Skills
 
@@ -27,8 +29,8 @@ Hi! I'm Bader, I built simple, scalable, and testable APIs for companies, labs, 
   <img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" title="Terraform" height="40" />
   <img src="https://skillicons.dev/icons?i=aws" alt="AWS" title="AWS" height="40" />
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub" height="40" />
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" title="GitHub" height="40" />
-  <img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" title="GitHub" height="40" />
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" height="40" />
+  <img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" title="Supabase" height="40" />
 </div>
 
 ---
@@ -39,6 +41,15 @@ Hi! I'm Bader, I built simple, scalable, and testable APIs for companies, labs, 
   <img src="https://skillicons.dev/icons?i=langchain" alt="LangChain" title="LangChain" height="40" />
 </div>
 Generative AI / LLM experiments
+
+---
+
+## GitHub Stats
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=badersalis&theme=tokyonight" alt="Bader's GitHub Streak" />
+  <br />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=badersalis&theme=react-dark&hide_border=true" alt="Bader's GitHub Activity Graph" />
+</div>
 
 ---
 
