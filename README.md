@@ -25,6 +25,8 @@ Hi! I'm Bader, I built simple, scalable, and testable APIs for companies, labs, 
   <img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" title="Terraform" height="40" />
   <img src="https://skillicons.dev/icons?i=aws" alt="AWS" title="AWS" height="40" />
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub" height="40" />
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" title="GitHub" height="40" />
+  <img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" title="GitHub" height="40" />
 </div>
 
 ---
