@@ -1,37 +1,47 @@
-Hi! I'm Bader, I built **simple, scalable, and testable APIs** for companies, labs, and organizations.
----
+Hi! I'm Bader, I built simple, scalable, and testable APIs for companies, labs, and organizations.
 
 ## Skills
 
-- **Languages & Frameworks**  
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)  
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
+### Languages & Frameworks
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" title="TypeScript" height="40" />
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript" height="40" />
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" title="Python" height="40" />
+  <img src="https://skillicons.dev/icons?i=express" alt="Express.js" title="Express.js" height="40" />
+  <img src="https://skillicons.dev/icons?i=flask" alt="Flask" title="Flask" height="40" />
+  <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" title="FastAPI" height="40" />
+</div>
 
-- **Backend & APIs**  
-  ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)  
-  ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)  
-  ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)  
+### Databases
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" title="MongoDB" height="40" />
+  <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" title="PostgreSQL" height="40" />
+  <img src="https://skillicons.dev/icons?i=prisma" alt="Prisma" title="Prisma" height="40" />
+</div>
 
-- **Dev & Deployment**  
-  ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)  
-  Scalable, containerized, and deployable APIs 
+### DevOps & Cloud
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" title="Docker" height="40" />
+  <img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" title="Terraform" height="40" />
+  <img src="https://skillicons.dev/icons?i=aws" alt="AWS" title="AWS" height="40" />
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub" height="40" />
+</div>
 
 ---
 
 ## Currently Learning
-
-- ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)  
-- ![LangChain](https://img.shields.io/badge/-LangChain-FF9900?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUA)  
-- Generative AI / LLM experiments
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" title="PyTorch" height="40" />
+  <img src="https://skillicons.dev/icons?i=langchain" alt="LangChain" title="LangChain" height="40" />
+</div>
+Generative AI / LLM experiments
 
 ---
 
 ## Repos
 
-I keep it **clean, simple, and working**. If it’s testable and scalable, it’s probably mine.  
+I keep it **clean, simple, and working**.
 
 ---
 
-> “Write APIs like you write your best code: fast, clean, and occasionally funny.” 😎
-
+> "Write APIs like you write your best code: fast, clean, and occasionally funny." 😎
