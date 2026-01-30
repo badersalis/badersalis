@@ -10,6 +10,7 @@ Hi! I'm Bader, I built simple, scalable, and testable APIs for companies, labs, 
   <img src="https://skillicons.dev/icons?i=express" alt="Express.js" title="Express.js" height="40" />
   <img src="https://skillicons.dev/icons?i=flask" alt="Flask" title="Flask" height="40" />
   <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" title="FastAPI" height="40" />
+  <img src="https://skillicons.dev/icons?i=jest" alt="Jest" title="Jest" height="40" />
 </div>
 
 ### Databases
@@ -22,6 +23,7 @@ Hi! I'm Bader, I built simple, scalable, and testable APIs for companies, labs, 
 ### DevOps & Cloud
 <div align="left">
   <img src="https://skillicons.dev/icons?i=docker" alt="Docker" title="Docker" height="40" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" title="Kubernetes" height="40" />
   <img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" title="Terraform" height="40" />
   <img src="https://skillicons.dev/icons?i=aws" alt="AWS" title="AWS" height="40" />
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub" height="40" />
