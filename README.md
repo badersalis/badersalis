@@ -10,7 +10,7 @@ Hi! I'm Bader, I build simple, scalable, and testable APIs for companies, labs, 
   <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript" height="40" />
   <img src="https://skillicons.dev/icons?i=python" alt="Python" title="Python" height="40" />
   <img src="https://skillicons.dev/icons?i=java" alt="Java" title="Java" height="40" />
-  <img src="https://skillicons.dev/icons?i=springboot" alt="Springboot" title="Springboot" height="40" />
+  <img src="https://skillicons.dev/icons?i=spring" alt="Springboot" title="Springboot" height="40" />
   <img src="https://skillicons.dev/icons?i=express" alt="Express.js" title="Express.js" height="40" />
   <img src="https://skillicons.dev/icons?i=flask" alt="Flask" title="Flask" height="40" />
   <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" title="FastAPI" height="40" />
