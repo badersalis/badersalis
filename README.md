@@ -9,6 +9,8 @@ Hi! I'm Bader, I build simple, scalable, and testable APIs for companies, labs, 
   <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" title="TypeScript" height="40" />
   <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript" height="40" />
   <img src="https://skillicons.dev/icons?i=python" alt="Python" title="Python" height="40" />
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" title="Java" height="40" />
+  <img src="https://skillicons.dev/icons?i=springboot" alt="Springboot" title="Springboot" height="40" />
   <img src="https://skillicons.dev/icons?i=express" alt="Express.js" title="Express.js" height="40" />
   <img src="https://skillicons.dev/icons?i=flask" alt="Flask" title="Flask" height="40" />
   <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" title="FastAPI" height="40" />
@@ -38,7 +40,7 @@ Hi! I'm Bader, I build simple, scalable, and testable APIs for companies, labs, 
 ## Currently Learning
 <div align="left">
   <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" title="PyTorch" height="40" />
-  <img src="https://skillicons.dev/icons?i=langchain" alt="LangChain" title="LangChain" height="40" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" title="TensorFlow" height="40" />
 </div>
 Generative AI / LLM experiments
 
