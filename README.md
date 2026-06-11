@@ -63,13 +63,6 @@ api-gateway · auth · products · orders · payments · notifications
 
 <div align="center">
 
-<img height="150" src="https://github-readme-stats-ldqd1y03h-baders-projects-11d230a1.vercel.app/api?username=badersalis&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=a8b2d8&count_private=true&include_all_commits=true" />
-<img height="150" src="https://github-readme-stats-ldqd1y03h-baders-projects-11d230a1.vercel.app/api/top-langs/?username=badersalis&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=a8b2d8&langs_count=6&hide=html,css" />
-
-</div>
-
-<div align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=badersalis&bg_color=0d1117&color=58a6ff&line=1e3a5f&point=58a6ff&area=true&area_color=1e3a5f&hide_border=true" width="95%" />
 
 </div>
