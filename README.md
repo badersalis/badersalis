@@ -1,72 +1,85 @@
-<!--
-  For private repo stats: deploy your own instance of github-readme-stats on Vercel
-  with a GITHUB_TOKEN (read:user + repo scopes) and replace the widget URLs below.
--->
+<div align="center">
 
-# badersalis
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1e3a5f&height=140&section=header&text=Hey,%20I'm%20Bader.&fontSize=42&fontColor=ffffff&fontAlignY=55&animation=fadeIn" width="100%" />
 
-Backend Engineer · Distributed Systems · Microservices · Drone Programming
+<br/>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=58a6ff&center=true&vCenter=true&width=520&lines=Backend+Engineer+%7C+Python+%26+FastAPI;Microservices+%2B+DDD+%2B+Distributed+Systems;Drone+Backend+Programmer;Open+to+contracts+%26+remote+roles" />
 
----
+<br/>
 
-Self-taught. 3–5 years shipping production backends — microservices, DDD, async Python. Also do drone systems (MAVLink). Currently on NestJS professionally; building Python-first. Open to remote contracts.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/bader-saâdou-salissou-9a72b2414)
+[![Email](https://img.shields.io/badge/Email-1e3a5f?style=flat-square&logo=gmail&logoColor=white)](mailto:badersaadousalissou@gmail.com)
+
+</div>
 
 ---
 
-<table><tr><td>
-
-![Stats](https://github-readme-stats.vercel.app/api?username=badersalis&show_icons=true&count_private=true&include_all_commits=true&hide=stars&theme=default&hide_border=true)
-
-</td><td>
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=badersalis&layout=compact&hide_border=true&theme=default&langs_count=6)
-
-</td></tr></table>
-
-![Streak](https://streak-stats.demolab.com?user=badersalis&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D)
-
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=badersalis&theme=minimal&hide_border=true&area=true)
-
-> Stats include private repo contributions. Most production work is in private/client repos.
+```python
+class Bader:
+    stack        = ["Python", "FastAPI", "Flask", "TypeScript", "NestJS"]
+    architecture = ["Microservices", "DDD", "Event-Driven", "REST"]
+    infra        = ["Docker", "Terraform", "Ansible", "Jenkins", "Kubernetes"]
+    observability = ["Prometheus", "Grafana", "HyperDX"]
+    niche        = ["Distributed Systems", "Drone Backend"]
+    available    = True
+```
 
 ---
 
-**Backend**
-![Python](https://img.shields.io/badge/Python-555?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-555?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-555?style=flat-square&logo=flask&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-555?style=flat-square&logo=nestjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-555?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-555?style=flat-square&logo=redis&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-555?style=flat-square&logo=rabbitmq&logoColor=white)
+## Stack
+
+**Backend & Data**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,fastapi,flask,ts,nestjs,postgresql,redis,mongodb,rabbitmq" height="38" />
 
 **Infra & DevOps**
-![Docker](https://img.shields.io/badge/Docker-555?style=flat-square&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-555?style=flat-square&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-555?style=flat-square&logo=ansible&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-555?style=flat-square&logo=jenkins&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-555?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-555?style=flat-square&logo=grafana&logoColor=white)
-![HyperDX](https://img.shields.io/badge/HyperDX-555?style=flat-square)
-![Linux](https://img.shields.io/badge/Linux-555?style=flat-square&logo=linux&logoColor=white)
+<br/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible,jenkins,aws,linux,bash" height="38" />
 
-**Drone & Systems**
-![MAVLink](https://img.shields.io/badge/MAVLink-555?style=flat-square)
-![Bash](https://img.shields.io/badge/Bash-555?style=flat-square&logo=gnubash&logoColor=white)
+**Observability**
+<br/>
+<img src="https://skillicons.dev/icons?i=prometheus,grafana" height="38" />
+&nbsp; `+ HyperDX`
 
----
-
-**[MarketCore](https://github.com/badersalis/marketcore)** — Reusable e-commerce backend. FastAPI + DDD, 6 microservices, RabbitMQ event bus, JWT auth, Docker Compose.
-`FastAPI` `DDD` `Microservices` `RabbitMQ` `PostgreSQL`
-
-**[Drone Project — coming soon]** — Autonomous flight control & MAVLink integration.
-`Python` `MAVLink` `Linux`
+**Exploring**
+<br/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" height="38" />
+&nbsp; `Generative AI · LLMs`
 
 ---
 
-Available for contracts · [GitHub](https://github.com/badersalis) · [LinkedIn](#) · [Email](mailto:badersalis@email.com)
+## Now building — MarketCore
+
+> Reusable e-commerce backend · FastAPI · Microservices · DDD · Docker
+
+```
+api-gateway · auth · products · orders · payments · notifications
+```
+
+[![Repo](https://img.shields.io/badge/MarketCore-View%20Repo-1e3a5f?style=flat-square&logo=github&logoColor=white)](https://github.com/badersalis/marketcore)
+
+---
+
+<div align="center">
+
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=badersalis&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=a8b2d8&count_private=true&include_all_commits=true" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=badersalis&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=a8b2d8&langs_count=6&hide=html,css" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=badersalis&bg_color=0d1117&color=58a6ff&line=1e3a5f&point=58a6ff&area=true&area_color=1e3a5f&hide_border=true" width="95%" />
+
+</div>
+
+---
+
+<div align="center">
+
+<sub>I build simple, scalable, and testable APIs — for companies, labs, and organizations.</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,100:0d1117&height=80&section=footer" width="100%" />
+
+</div>
