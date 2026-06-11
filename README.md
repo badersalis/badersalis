@@ -50,14 +50,14 @@ class Bader:
 api-gateway · auth · products · orders · payments · notifications
 ```
 
-[![Repo](https://img.shields.io/badge/MarketCore-View%20Repo-e94560?style=flat-square&logo=github)](https://github.com/yourusername/marketcore)
+[![Repo](https://img.shields.io/badge/MarketCore-View%20Repo-e94560?style=flat-square&logo=github)](https://github.com/badersalis/marketcore)
 
 ---
 
 <div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&hide_border=true&bg_color=0d1117&title_color=e94560&icon_color=e94560&text_color=a8b2d8&count_private=true" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&hide_border=true&bg_color=0d1117&title_color=e94560&text_color=a8b2d8&langs_count=5" />
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=badersalis&show_icons=true&hide_border=true&bg_color=0d1117&title_color=e94560&icon_color=e94560&text_color=a8b2d8&count_private=true" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=badersalis&layout=compact&hide_border=true&bg_color=0d1117&title_color=e94560&text_color=a8b2d8&langs_count=5" />
 
 </div>
 
