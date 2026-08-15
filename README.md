@@ -33,26 +33,6 @@
 
 ---
 
-## Now building — MarketCore
-
-> Reusable e-commerce backend · FastAPI · Microservices · DDD · Docker
-
-```
-api-gateway · auth · products · orders · payments · notifications
-```
-
-[![Repo](https://img.shields.io/badge/MarketCore-View%20Repo-1e3a5f?style=flat-square&logo=github&logoColor=white)](https://github.com/badersalis/marketcore)
-
-## Next up — AI layer
-
-> Bringing intelligence into production backends
-
-```
-recommendation-service · semantic-search · llm-gateway · ml-serving
-```
-
----
-
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=badersalis&bg_color=0d1117&color=58a6ff&line=1e3a5f&point=58a6ff&area=true&area_color=1e3a5f&hide_border=true" width="95%" />
 </div>
@@ -60,6 +40,6 @@ recommendation-service · semantic-search · llm-gateway · ml-serving
 ---
 
 <div align="center">
-<sub>I build simple, scalable, and testable APIs — and I'm bringing AI into them. For companies, labs, and organizations.</sub>
+<sub>I build simple, scalable, and testable APIs For companies, labs, and organizations.</sub>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,100:0d1117&height=80&section=footer" width="100%" />
 </div>
