@@ -11,19 +11,6 @@
 
 ---
 
-```python
-class Bader:
-    stack         = ["Python", "FastAPI", "Flask", "TypeScript", "NestJS"]
-    architecture  = ["Microservices", "DDD", "Event-Driven", "REST"]
-    ai_ml         = ["PyTorch", "LLMs", "RAG", "Model Serving"]
-    infra         = ["Docker", "Terraform", "Ansible", "Jenkins", "Kubernetes"]
-    observability = ["Prometheus", "Grafana", "HyperDX"]
-    niche         = ["Distributed Systems", "Drone Backend", "AI Backends"]
-    available     = True
-```
-
----
-
 ## Stack
 
 **Backend & Data**
