@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1e3a5f&height=140&section=header&text=Hey,%20I'm%20Bader.&fontSize=42&fontColor=ffffff&fontAlignY=55&animation=fadeIn" width="100%" />
 <br/>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=58a6ff&center=true&vCenter=true&width=560&lines=Backend+Engineer+%7C;Microservices+%2B+DDD+%2B+Distributed+Systems;Drone+Backend+Programmer;Open+to+contracts+%26" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=58a6ff&center=true&vCenter=true&width=560&lines=Backend+Engineer;Microservices+%2B+DDD+%2B+Distributed+Systems;Drone+Backend+Programmer;Open+to+contracts+%26" />
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/bader-saâdou-salissou-9a72b2414)
