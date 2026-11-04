@@ -14,7 +14,7 @@ I'm Bader, a back end developer and I build AI-powered back end for ambitious st
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,flask,typescript,nodejs,express,nestjs,postgresql,redis,mongodb,sqlite,docker,linux,git,github,bash,vscode&perline=8" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,flask,typescript,nodejs,express,nestjs,pytorch,tensorflow,supabase,postgresql,redis,mongodb,sqlite,docker,linux,git,github,bash,vscode,vim,emacs,pycharm&perline=8" />
 
 <br/><br/>
 
