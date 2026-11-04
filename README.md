@@ -1,7 +1,7 @@
 <div align="center">
-### Backend Engineer · AI & SaaS 🚀
 
-Building the engines behind great ideas.
+## Hello there 👋
+I'm Bader, a back end developer and I build AI-powered back end for ambitious startups, companies and labs.
 
 <br/>
 
