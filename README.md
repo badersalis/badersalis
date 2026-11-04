@@ -19,7 +19,7 @@ Building the engines behind great ideas.
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,flask,ibmcloud,postgresql,redis,mongodb,sqlite,docker,linux,git,github,bash,vscode&perline=8" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,flask,typescript,nodejs,express,postgresql,redis,mongodb,sqlite,docker,linux,git,github,bash,vscode&perline=8" />
 
 <br/><br/>
 
