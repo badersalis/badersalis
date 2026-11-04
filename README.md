@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
 
 <img src="https://img.shields.io/static/v1?label=⚡&message=Building+AI-Powered+Products&style=flat-square&color=1e3a5f" />
 
@@ -23,9 +23,21 @@ Building the engines behind great ideas.
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true&border_radius=10" width="80%" />
+### GitHub Activity
 
-<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=badersalis&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" width="80%" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=badersalis&theme=github-dark-blue&hide_border=true&border_radius=10" width="80%" />
+
+<br/><br/>
+
+### Contribution Graph
+
+<img src="https://ghchart.rshah.org/1e90ff/badersalis" alt="GitHub Contribution Graph" width="100%" />
+
+<br/><br/>
 
 ⚡ **Build · Integrate · Scale**
 
