@@ -1,9 +1,4 @@
 <div align="center">
-
-<img src="https://img.shields.io/static/v1?label=⚡&message=Building+AI-Powered+Products&style=flat-square&color=1e3a5f" />
-
-<br/><br/>
-
 ### Backend Engineer · AI & SaaS 🚀
 
 Building the engines behind great ideas.
@@ -19,7 +14,7 @@ Building the engines behind great ideas.
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,flask,typescript,nodejs,express,postgresql,redis,mongodb,sqlite,docker,linux,git,github,bash,vscode&perline=8" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,flask,typescript,nodejs,express,nestjs,postgresql,redis,mongodb,sqlite,docker,linux,git,github,bash,vscode&perline=8" />
 
 <br/><br/>
 
@@ -37,12 +32,16 @@ Building the engines behind great ideas.
 
 <br/><br/>
 
-### Contribution Graph
+### Contributions
 
-<img src="https://ghchart.rshah.org/1e90ff/badersalis" alt="GitHub Contribution Graph" width="100%" />
+<img
+  src="https://ghchart.rshah.org/00C853/badersalis"
+  alt="GitHub Contribution Graph"
+  width="100%"
+/>
 
 <br/><br/>
 
-⚡ **Build · Integrate · Scale**
+**Build · Integrate · Scale**
 
 </div>
