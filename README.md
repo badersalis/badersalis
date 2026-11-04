@@ -36,7 +36,7 @@ I enjoy working on ideas that evolve into useful software, especially AI-powered
 **Languages & Backend Development**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,typescript,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,flask" />
 </p>
 
 **Databases & Data Processing**
