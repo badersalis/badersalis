@@ -25,7 +25,11 @@ Building the engines behind great ideas.
 
 ### GitHub Activity
 
-<img src="https://github-readme-stats.vercel.app/api?username=badersalis&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" width="80%" />
+<img
+  src="https://github-stats-extended.vercel.app/api?username=badersalis&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true"
+  width="80%"
+  alt="GitHub Statistics"
+/>
 
 <br/><br/>
 
