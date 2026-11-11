@@ -30,18 +30,4 @@ I'm Bader, a back end developer and I build AI-powered back end for ambitious st
 
 <img src="https://streak-stats.demolab.com?user=badersalis&theme=github-dark-blue&hide_border=true&border_radius=10" width="80%" />
 
-<br/><br/>
-
-### Contributions
-
-<img
-  src="https://ghchart.rshah.org/00C853/badersalis"
-  alt="GitHub Contribution Graph"
-  width="100%"
-/>
-
-<br/><br/>
-
-**Build · Integrate · Scale**
-
 </div>
